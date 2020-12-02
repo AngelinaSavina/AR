@@ -1,0 +1,24 @@
+﻿{
+  "product": {
+    "name": "Харомэ",
+    "description": "Лосось, угорь, огурец, сыр сливочный, кунжут, твердый сыр. 255 гр",
+    "pictures": {
+      "value": [
+        "https://xn--80adjkr6adm9b.xn--p1ai/pics/5f442befe4b04bf2335b5de8?width=357",
+        "https://xn--80adjkr6adm9b.xn--p1ai/pics/5f442befe4b04bf2335b5de8?width=357",
+        "https://xn--80adjkr6adm9b.xn--p1ai/pics/5f442befe4b04bf2335b5de8?width=357"
+      ]
+    },
+    "price": "299 рублей",
+    "category": {
+      "name": "Запеченные роллы",
+      "description": "Запеченная японская еда",
+      "picture": "https://xn--80adjkr6adm9b.xn--p1ai/pics/5f442befe4b04bf2335b5de8?width=357",
+      "parentCategory": {
+        "name": "Роллы",
+        "description": "Японская еда",
+        "picture": "https://xn--80adjkr6adm9b.xn--p1ai/pics/5f442befe4b04bf2335b5de8?width=357"
+      }
+    }
+  }
+}
